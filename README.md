@@ -42,6 +42,13 @@ Here a list of models that I was playing around with:
 After you have downloaded all the models, you will need to edit the `config.json` to include the path to the models you have downloaded.
 You might also need to change the `silence_threshold` to fit with your microphone. There is no built-in way to see that value right now though.
 
+### Run
+Finally run the program with
+```
+cargo run
+```
+and start speaking.
+
 ## Disclaimer / ToDo
 Work in progress. Also I'm bad at Rust so the code is rly ugly.
 
