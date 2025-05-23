@@ -1,5 +1,5 @@
 # My AI Friend
-Ever wanted a friend that is always there to listen? No? Well then maybe it is just me. Anyways this was just a quick experiment where I combined
+Ever wanted a friend that is always here to listen to you No? Well then maybe it is just me. Anyways this was just a quick experiment where I combined
 piper, ollama and whisper to make an interactive chatbot that I can talk to.
 
 ## How it works
