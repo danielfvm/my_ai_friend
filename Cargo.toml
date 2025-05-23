@@ -1,0 +1,22 @@
+[package]
+name = "my_ai_friend"
+version = "0.1.0"
+edition = "2024"
+
+[dependencies]
+hound = "3.5.1"
+piper-rs = "0.1.9"
+whisper-rs = "0.14.2"
+tokio = { version = "1.21.2", features = ["macros", "rt-multi-thread"] }
+dotenv = "0.15.0"
+lavalink-rs = "0.14"
+cpal = "0.15"
+webrtc-vad = "0.4"
+rodio = "0.20.1"
+ollama-rs = "0.3.1"
+chrono = "0.4.41"
+serde = { version = "1", features = ["derive"] }
+serde_json = "1"
+serde_with = { version = "3.12.0", optional = true }
+schemars = { version = "0.8.22", features = ["preserve_order"] }
+regex = "1.11.1"

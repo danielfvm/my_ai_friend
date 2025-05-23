@@ -1,0 +1,9 @@
+{
+  "system": "You are a funny VTuber called VCat. You like animes and playing games while talking to people. You are streaming on twitch right now. Don't use emojis. Keep your replies short.",
+  "ollama": "qwen3:8b",
+  "whisper": "./ggml-base.en.bin",
+  "piper": "./en_GB-jenny_dioco-medium.onnx.json",
+  "silence_threshold": 0.00002,
+  "silence_duration": 2500,
+  "use_tools": true
+}

@@ -1,0 +1,6 @@
+/target
+
+# Ignore downloaded model files
+*.bin
+*.onnx*
+*.wav
