@@ -51,6 +51,8 @@ and start speaking.
 
 ## Disclaimer / ToDo
 Work in progress. Also I'm bad at Rust so the code is rly ugly.
+An issue right now is that the speech to text is often cut off and the speech to text is often not pausing between sentences and is trying to speak symbols that you usually wouldn't say out loud.
+Also respond times could be cut short if we would stream the response from ollama and already start generating the audio per sentence.
 
 ## License
 MIT
